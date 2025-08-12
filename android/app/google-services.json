@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884479623105",
+    "project_id": "arkanstoreapp-ffe12",
+    "storage_bucket": "arkanstoreapp-ffe12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884479623105:android:14f129d6e7d0f85d5e3940",
+        "android_client_info": {
+          "package_name": "com.example.arkanstore_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPz7_mcdubxsrxcCF8u9SxBH7y85cVZes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
